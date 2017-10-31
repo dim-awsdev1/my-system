@@ -1,0 +1,3 @@
+[submodule "packages/my-constants"]
+	path = packages/my-constants
+	url = https://github.com/dim-awsdev1/my-constants.git
